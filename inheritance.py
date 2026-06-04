@@ -23,7 +23,7 @@ class Student(Parent):
 
 
 # Creating object of Student class
-s1 = Student("prashamsha", 10, "Narayan ", "Laxmi")
+s1 = Student("prashamsha", 1, "Narayan ", "Laxmi")
 
 # Display details
 s1.display_student_details()
