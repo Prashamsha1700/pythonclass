@@ -3,7 +3,7 @@
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
-print("Choose operation:")
+print("Choose operation:") 
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
